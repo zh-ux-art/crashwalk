@@ -1,4 +1,4 @@
-module crashwalk
+module github.com/zh-ux-art/crashwalk
 
 go 1.23.2
 
